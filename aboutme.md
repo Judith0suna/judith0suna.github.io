@@ -12,4 +12,11 @@ My name is Judith Osuna, I am from Tarragona and I love learning new skills. Hav
 - Master in Health Data Science at URV (2024 - present)
 
 ### Experience
-- Data Scientist Trainee at Boehringer Ingelheim (2024 - present)
+- Data Scientist Trainee at Boehringer Ingelheim
+- Researcher in Artificial Intelligence in diabetes at MICElab (Universitat de Girona)
+
+### Languages
+- Spanish: Mother tongue
+- Catalan: C1
+- English: B2
+- French: B1
