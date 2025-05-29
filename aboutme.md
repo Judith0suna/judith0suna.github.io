@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A brief personal description
+subtitle: A brief academic description
 ---
 
 While I love staying active, exploring new cultures, and learning languages, this part of my website shows another side of me — my academic journey and professional background. It’s a different facet, but just as much a part of who I am.
