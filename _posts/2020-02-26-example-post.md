@@ -1,95 +1,37 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Getting to know me: Things I love
+subtitle: Passion, curiosity, and a bit of sweat
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [about me, hobbies, personal]
 comments: true
-mathjax: true
-author: Bill Smith
+mathjax: false
+author: Judith Osuna
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Welcome to my personal corner of the internet — not just *where I tell the world about me*, but where I share the things that light up my life, challenge my mind, and keep me moving forward.
 
-**Here is some bold text**
+## 🌟 My Favorite Things To Do
 
-## Here is a secondary heading
+### 📚 Reading
+Reading is my escape, my passion, and probably where I spend most of my free time. I love diving into different worlds, discovering new ideas, and letting stories shape the way I see life. Whether it's fiction, personal development, or something totally random — I’m all in.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+### 🏃‍♀️ Practising Sports
+I stay active not only for my health, but because it brings me balance and joy. I especially enjoy pilates, yoga, running, swimming, and playing padel. Moving my body helps me stay focused and gives me energy to enjoy everything else I love.
 
-Here's a table:
+### 🌍 Learning New Languages
+Languages open doors — to people, to cultures, to connection. I love talking to different people and being able to understand strangers. There’s something magical about seeing how language shapes thoughts and values. Plus, it’s just fun!
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### ✈️ Travelling
+Travel is a big part of who I am. I love exploring new places, learning from different cultures, and being surrounded by nature. It keeps me grounded and curious. Every trip adds a new piece to my story.
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+---
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+![Nature and peace](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80){: .mx-auto.d-block }
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Life is about growing, exploring, and sharing — and this blog is my way of doing just that.
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
