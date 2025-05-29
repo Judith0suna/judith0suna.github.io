@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Getting to know me: Things I love"
+title: "Getting to know me"
 subtitle: "Passion, curiosity, and a bit of sweat"
-gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [about me, hobbies, personal]
 comments: true
