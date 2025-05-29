@@ -9,7 +9,7 @@ My name is Judith Osuna, I am from Tarragona and I love learning new skills. Hav
 ### Education
 
 - Biomedical engineering degree at URV (2020 - 2024)
-- Master in Health Data Science at URV (2024 - prsent)
+- Master in Health Data Science at URV (2024 - present)
 
 ### Experience
 - Data Scientist Trainee at Boehringer Ingelheim (2024 - present)
