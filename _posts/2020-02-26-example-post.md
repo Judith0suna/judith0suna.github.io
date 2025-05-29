@@ -2,7 +2,6 @@
 layout: post
 title: "Getting to know me"
 subtitle: "Passion, curiosity, and a bit of sweat"
-gh-badge: [star, fork, follow]
 tags: [about me, hobbies, personal]
 comments: true
 mathjax: false
