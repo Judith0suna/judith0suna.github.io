@@ -8,12 +8,12 @@ While I love staying active, exploring new cultures, and learning languages, thi
 
 ### Education
 
-- Biomedical engineering degree at URV (2020 - 2024)
+- Biomedical Engineering Degree at URV (2020 - 2024)
 - Master in Health Data Science at URV (2024 - present)
 
 ### Experience
 - Data Scientist Trainee at Boehringer Ingelheim
-- Researcher in Artificial Intelligence in diabetes at MICElab (Universitat de Girona)
+- Researcher in Artificial Intelligence in Diabetes at MICElab (Universitat de Girona)
 
 ### Languages
 - Spanish: Mother tongue
