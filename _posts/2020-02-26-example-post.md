@@ -14,6 +14,8 @@ Welcome to my personal corner of the internet, where I share the things that lig
 
 ### 📚 Reading
 Reading is my escape, my passion, and probably where I spend most of my free time. I love diving into different worlds, discovering new ideas, and letting stories shape the way I see life. Whether it's fiction, personal development, or something totally random — I’m all in.
+![Judith](/images/judith.png){: .mx-auto.d-block }
+
 
 ### 🏃‍♀️ Practising Sports
 I stay active not only for my health, but because it brings me balance and joy. I especially enjoy pilates, yoga, running, swimming, and playing padel. Moving my body helps me stay focused and gives me energy to enjoy everything else I love.
