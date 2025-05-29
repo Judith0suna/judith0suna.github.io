@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting to know me: Things I love
-subtitle: Passion, curiosity, and a bit of sweat
+title: "Getting to know me: Things I love"
+subtitle: "Passion, curiosity, and a bit of sweat"
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [about me, hobbies, personal]
 comments: true
 mathjax: false
-author: Judith Osuna
+author: "Judith Osuna"
 ---
 
 {: .box-success}
