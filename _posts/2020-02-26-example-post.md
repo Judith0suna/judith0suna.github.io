@@ -14,7 +14,7 @@ Welcome to my personal corner of the internet, where I share the things that lig
 
 ### 📚 Reading
 Reading is my escape, my passion, and probably where I spend most of my free time. I love diving into different worlds, discovering new ideas, and letting stories shape the way I see life. Whether it's fiction, personal development, or something totally random — I’m all in.
-![Judith](/images/read.jpg){: .mx-auto.d-block style="width: 300px;" }
+![Judith](/images/read.jpg){: .mx-auto.d-block style="width: 100px;" }
 
 
 ### 🏃‍♀️ Practising Sports
