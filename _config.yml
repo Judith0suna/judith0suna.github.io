@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Ferran Aran
+author: Judith Osuna
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -39,7 +39,7 @@ social-network-links:
   email: "judith.osuna@estudiants.urv.cat"
   instagram: judith0suna
   github: judith0suna
-  linkedin: ferranaran
+  linkedin: judith osuna ramirez
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
